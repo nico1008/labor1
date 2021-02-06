@@ -1,4 +1,4 @@
 lab1 
-hello 
-hello 
-hello
+bye 
+bye 
+bye
